@@ -1,0 +1,238 @@
+.container{
+
+    width: 100%;
+    max-width: 1040px;
+    margin: 60px auto;
+}
+.cards{
+    width: 100%;
+    height: 700px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color:#1F3641;
+}
+.card1{
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 30%;
+    height: 30%;
+    background-color: gray;
+}
+.card2{
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 30%;
+    height: 30%;
+    background-color: gray;
+}
+.card3{
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 30%;
+    height: 30%;
+    background-color: gray;
+}
+.card4{
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 30%;
+    height: 30%;
+    background-color: gray;
+}
+.card5{
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 30%;
+    height: 30%;
+    background-color: gray;
+}
+.card6{
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 30%;
+    height: 30%;
+    background-color: gray;
+}
+.card7{
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 30%;
+    height: 30%;
+    background-color: gray;
+}
+.card8{
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 30%;
+    height: 30%;
+    background-color: gray;
+}
+.card9{
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 30%;
+    height: 30%;
+    background-color: gray;
+}
+.x1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    display: none;
+}
+.x2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
+.x3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
+.x4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
+.x5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
+.x6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
+.x7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
+.x8{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
+.x9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
+.o1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
+.o2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
+.o3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
+.o4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
+.o5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
+.o6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
+.o7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
+.o8{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
+.o9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    width: 80px;
+    background-color: blue;
+    display: none;
+}
